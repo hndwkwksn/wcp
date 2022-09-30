@@ -12,5 +12,9 @@ public class Calculation {
 		System.out.println(a);
 		a += 5;
 		System.out.println(a);
+		int b = 5;
+		boolean d;
+		d = b < 5;
+		System.out.println(d);
 	}
 }
